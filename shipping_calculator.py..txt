@@ -1,0 +1,3 @@
+# Shipping Calculator Starter Code
+def calculate_shipping(weight, distance):
+    return weight * distance * 0.5
